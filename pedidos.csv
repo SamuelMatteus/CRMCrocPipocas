@@ -1,0 +1,3 @@
+ID,DataHora,Tipo,ClienteID,ValorItens,TaxaEntrega,ValorTotal,ItensJSON
+1,2025-07-05 18:26:12,Retirada,,7.0,0.0,7.0,"[{""produto_id"": 1, ""nome"": ""Teste"", ""quantidade"": 1, ""preco_unitario"": 2.0}, {""produto_id"": 2, ""nome"": ""Refrigerante"", ""quantidade"": 1, ""preco_unitario"": 5.0}]"
+2,2025-07-05 20:16:44,Retirada,,24.0,0.0,24.0,"[{""produto_id"": 1, ""nome"": ""Pipoca Doce"", ""quantidade"": 2, ""preco_unitario"": 7.0}, {""produto_id"": 2, ""nome"": ""Refrigerante"", ""quantidade"": 2, ""preco_unitario"": 5.0}]"
