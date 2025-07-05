@@ -8,7 +8,7 @@ from enum import Enum
 from datetime import datetime, date, time, timedelta
 import plotly.express as px
 
-# --- Enums ---
+# --- Enums --- Estabelecidos
 
 class ClassificacaoProduto(Enum):
     PIPOCA = 'Pipoca'
